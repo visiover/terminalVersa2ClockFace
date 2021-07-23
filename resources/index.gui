@@ -1,0 +1,28 @@
+<svg class="background">
+  <text id="username">fitbit@versa2: ~ $ now</text>
+
+  <text id="date_print">[DATE]</text>
+  <text id="date"> </text>
+
+  <text id="time_print">[TIME]</text>
+  <text id="mytime"></text>
+
+  <text id="step_print">[STEP]</text>
+  <!--image href="steps_36px.png" x="35%" y="36%"  width="10%" height="10%"/>-->
+  <text id="txtSteps"></text>
+
+  <text id="batt_print">[BATT]</text>
+  <text id="batteryLabel" />
+
+  <text id="hr_print">[   HR  ]</text>
+  <text id="heartrateLabel" />
+
+  <text id="cal_print">[ CAL ]</text>
+  <text id="myCalories"></text>
+
+  <text id="dist_print">[ DIST ]</text>
+  <text id="myDistance"></text>
+ 
+  
+  <text id="myUsername">fitbit@versa2: ~ $ </text>
+ </svg>

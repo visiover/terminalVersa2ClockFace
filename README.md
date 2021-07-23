@@ -1,3 +1,7 @@
 # terminalVersa2ClockFace
-Simple Fitbit Versa 2 clock face
+
+Linux terminal like Fitbit Versa 2 clock face.
+
+![screenshot](resources/screenshot.png)
+
 

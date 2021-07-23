@@ -1,0 +1,97 @@
+.background {
+  viewport-fill: black;
+}
+
+* {
+ font-family: "System-Bold"; 
+ font-size: 26;
+ fill: #00c200;
+ text-length: 25;
+}
+
+
+#username {
+  x: 3%;
+  y: 10%;
+}
+
+#date_print{
+  x: 3%;
+  y: 25%;
+}
+
+#date {
+  fill: #5efa67;
+  x: 33%;
+  y: 25%;
+}
+
+
+#time_print{
+  x: 3%;
+  y: 35%;
+}
+
+#mytime {
+  fill: white;
+  x: 35%;
+  y: 35%;
+}
+
+#step_print{
+  x: 3%;
+  y: 45%;
+}
+
+#txtSteps {
+  x: 35%;
+  y: 45%;
+}
+
+#batt_print{
+  x: 3%;
+  y: 55%;
+}
+
+#batteryLabel {
+  fill: yellow;
+  x: 35%;
+  y: 55%;
+}
+
+#hr_print{
+  x: 3%;
+  y: 65%;
+}
+
+#heartrateLabel {
+  fill: #6971ff;
+  x: 35%;
+  y: 65%;
+}
+
+#cal_print{
+  x: 3%;
+  y: 75%;
+}
+
+#myCalories{
+  fill: red;
+  x: 35%;
+  y: 75%;
+}
+
+#dist_print{
+  x: 3%;
+  y: 85%;
+}
+
+#myDistance{
+  x: 35%;
+  y: 85%;
+}
+
+#myUsername {
+  x: 3%;
+  y: 97%;
+}

@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "f276fb3b-d550-4f95-a58c-c35de7de41ff",
+    "appType": "clockface",
+    "appDisplayName": "simple versa 2 clock face",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "simple versa 2 clock face"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
